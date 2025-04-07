@@ -43,8 +43,8 @@ const About = () => {
           <h3>Professional Experience</h3>
           <ul>
             <li>
-              <strong>Java Backend Developer</strong> – Omega Health and IT
-              Services (2021–Present)
+              <strong>Java Backend Developer</strong> – REZNEXT GLOBAL SOLUTIONS
+              (2020–2024)
               <br />
               Worked on Spring Boot microservices, RESTful APIs, and secure
               backend systems. Collaborated with frontend teams to deliver
