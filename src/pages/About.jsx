@@ -44,7 +44,7 @@ const About = () => {
           <ul>
             <li>
               <strong>Java Backend Developer</strong> – REZNEXT GLOBAL SOLUTIONS
-              (2021–2025)
+              (2020–2024)
               <br />
               Worked on Spring Boot microservices, RESTful APIs, and secure
               backend systems. Collaborated with frontend teams to deliver
@@ -52,7 +52,7 @@ const About = () => {
             </li>
             <li>
               <strong> Assistant Professor</strong> – VNR Vignana Jyothi
-              Institute of Engineering and Technology. (2015-2020)
+              Institute of Engineering and Technology. (2015-2019)
               <br />
               Taught a Java Course in Department Level
             </li>
