@@ -44,7 +44,7 @@ const About = () => {
           <ul>
             <li>
               <strong>Java Backend Developer</strong> – REZNEXT GLOBAL SOLUTIONS
-              (2020–2024)
+              (2020–till Date)
               <br />
               Worked on Spring Boot microservices, RESTful APIs, and secure
               backend systems. Collaborated with frontend teams to deliver
